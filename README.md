@@ -30,4 +30,17 @@ A responsive weather application built using **HTML**, **CSS**, and **JavaScript
 - Fully responsive (mobile-friendly)
 
 ## 📦 Folder Structure
+WeatherApp/
+│
+├── index.html
+├── style.css
+├── images/
+│ ├── clouds.png
+│ ├── clear.png
+│ ├── drizzle.png
+│ ├── humidity.png
+│ ├── mist.png
+│ ├── rain.png
+│ ├── search.png
+│ └── wind.png
 
