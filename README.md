@@ -28,4 +28,3 @@ A responsive weather application built using **HTML**, **CSS**, and **JavaScript
   - Wind speed
 - Error handling for invalid city names
 - Fully responsive (mobile-friendly)
-- 
