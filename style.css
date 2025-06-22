@@ -99,3 +99,55 @@ body {
   margin-top: 10px;
   font-weight: bold;
 }
+
+@media (max-width: 600px) {
+  .card {
+    padding: 30px 20px;
+    margin: 50px 15px;
+  }
+
+  .search input {
+    padding: 10px 15px;
+    height: 50px;
+    font-size: 16px;
+  }
+
+  .search button {
+    width: 50px;
+    height: 50px;
+  }
+
+  .search button img {
+    width: 14px;
+  }
+
+  .weather-icon {
+    width: 120px;
+    margin-top: 20px;
+  }
+
+  .weather h1.temp {
+    font-size: 60px;
+  }
+
+  .weather h2.city {
+    font-size: 32px;
+  }
+
+  .details {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 0;
+  }
+
+  .col {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .humidity,
+  .wind {
+    font-size: 22px;
+  }
+}
